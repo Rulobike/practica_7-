@@ -8,6 +8,7 @@ using SQLite;
 namespace App2
 {
     [Table("Formulario")]
+
     public class Formulario
     {
         string id;
